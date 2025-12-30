@@ -1,4 +1,4 @@
 # git-practice
-このリポジトリはGit動画講座用です．
+this repo is the perpose of practice
 first change
 second change
